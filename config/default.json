@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "project for school",
+  "mongoUri": "mongodb+srv://qwerty:qwerty123456@cluster0.bqfar.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
